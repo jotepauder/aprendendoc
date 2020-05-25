@@ -1,6 +1,15 @@
 Estrutura da lingageum C
+
 #include <stdio.h>
 
 int main() {
   printf("Olá linguagem C");
 }
+
+
+Solução para o erro de acentuação no vscode + gcc no windows 10:
+
+https://cursos.alura.com.br/forum/topico-windows-e-palavras-com-acentuacao-61327
+
+
+

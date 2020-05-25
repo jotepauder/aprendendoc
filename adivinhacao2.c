@@ -15,12 +15,22 @@ int main (){
     scanf("%d", &chute);
     printf("Seu chute foi %d\n",chute);
 
-    if( chute == numerosecreto){
+    
+    if(chute == numerosecreto) {
+        printf("Você acertou, parabéns! \n");
+        printf("Jogue de novo, você é um bom jogador! \n");
+    } 
+    else {
         
+        if(chute > numerosecreto) {
+            printf("Seu chute foi maior que o número secreto \n");
+        }
+        if( chute < numerosecreto) {
+            printf("Seu chute foi menor que o número secreto \n");
+        }
     }
     
-    printf("Você acertou, parabéns!\n");
-    printf("Você errou!\n");
-
+   
     
+      
 }
