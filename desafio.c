@@ -1,6 +1,6 @@
 #include <stdio.h>
-//#include <locale.h>
-//#include<stdlib.h>    
+#include <stdlib.h>
+#include<stdlib.h>    
 
 
 int main () {
@@ -9,8 +9,7 @@ int main () {
 int x;
 int y;
 //int valor;
-    //setlocale(LC_ALL, "portuguese-brazilian");
-
+    
     printf("Escreva o valor de x: ");
     scanf("%d", &x);
     
