@@ -32,4 +32,8 @@ int main (){
             printf("Seu chute foi menor que o número secreto \n");
         }
     } 
+
+    printf(" Testando de novo o c++");
+    printf("Olá caraio, vamos estudar");
+
 }
