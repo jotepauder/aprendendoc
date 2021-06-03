@@ -25,3 +25,5 @@ if(acertou) {
     }
 }
 */
+
+//printf("O número %d  é o secreto. Não conta pra ninguém!\n", numerosecreto);
